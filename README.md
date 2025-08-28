@@ -1,4 +1,6 @@
 ## Ex. No. 01 - Image-Handling-and-Pixel-Transformations-Using-OpenCV 
+## Reg No : 212223230188
+## Date : 28/08/25
 
 
 ## AIM:
