@@ -1,4 +1,5 @@
 ## Ex. No. 01 - Image-Handling-and-Pixel-Transformations-Using-OpenCV 
+## Name : SANJAY V
 ## Reg No : 212223230188
 ## Date : 28/08/25
 
